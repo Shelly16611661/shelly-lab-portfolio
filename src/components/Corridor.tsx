@@ -120,10 +120,10 @@ function FlipCard({ item }: { item: GalleryItem }) {
     href={item.link}
     target="_blank"
     rel="noreferrer"
+    download // 添加这一行，强制下载
     onClick={(e) => {
       e.stopPropagation();
-      e.preventDefault();          // 阻止瀏覽器預設行為
-      window.open(item.link, '_blank'); // 強制用新視窗打開
+      // 让浏览器默认行为处理下载，不用preventDefault
     }}
     aria-label={`${c.lab.openLink}: ${t(item.title)}`}
     className="sheen mt-3 inline-flex w-fit items-center gap-1.5 rounded-full bg-gradient-to-r from-jacarta-2 to-lav px-4 py-1.5 text-[11px] font-bold text-mist shadow-[0_6px_18px_rgba(117,97,157,.35)] transition-transform duration-300 hover:-translate-y-0.5"
