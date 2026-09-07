@@ -86,7 +86,7 @@ const zh = {
     resumed: "已恢復走秀",
     paused: "走秀暫停中",
     dragHint: "可拖曳滑動",
-    docNote: "＊檔案沿用 GitHub 倉庫既有命名：文件放 public/照片/、圖片放 public/照片/imags/、影片放 public/影片/，Vercel 部署即可直接對應。",
+    docNote: "＊如果把一臺設備連接到我的大腦任一神經元上，你會發現，人類思維中有一種不可預測的隨機性，這是AI永遠不具備的",
   },
   insights: {
     kicker: "觀測日誌 · FIELD NOTES",
@@ -254,7 +254,7 @@ const zh = {
   footer: {
     marquee: "SHELLY WU ✦ 吳宣萱 ✦ AIGC VISUAL LAB ✦ 商業邏輯 × AI 視覺轉化 ✦ ",
     best: "BEST VIEWED UNDER STARLIGHT",
-    rights: "© 2025 吳宣萱 Shelly Wu — 以星星與紫藤手工打造",
+    rights: "© 2026 吳宣萱 Shelly Wu — 靈魂的渴望 是命運的先知",
     nowPlaying: "♪ NOW SHOWING",
     film: "夏が終わる前に · AI 青春敘事短片",
     top: "回到星空頂端",
