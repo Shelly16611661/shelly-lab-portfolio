@@ -226,7 +226,7 @@ export const trackB: GalleryItem[] = [
   {
     kind: "image",
     id: "mp4_01",
-    img: "/images2/imags/product_gif_01P4.mp4",
+    img: "/images2/imags/product_gif_01P4.MP4",
     no: "V№05",
     tag: ["影片", "VIDEO"],
     title: ["", ""],
@@ -239,7 +239,7 @@ export const trackB: GalleryItem[] = [
   {
     kind: "image",
     id: "mp4_02",
-    img: "/images2/imags/product_gif_02P4.mp4",
+    img: "/images2/imags/product_gif_02P4.MP4",
     no: "V№06",
     tag: ["影片", "VIDEO"],
     title: ["", ""],
@@ -252,7 +252,7 @@ export const trackB: GalleryItem[] = [
   {
     kind: "image",
     id: "mp4_03",
-    img: "/images2/imags/product_gif_03P4.mp4",
+    img: "/images2/imags/product_gif_03P4.MP4",
     no: "V№07",
     tag: ["影片", "VIDEO"],
     title: ["", ""],
@@ -265,7 +265,7 @@ export const trackB: GalleryItem[] = [
   {
     kind: "image",
     id: "mp4_04",
-    img: "/images2/imags/product_gif_04P4.mp4",
+    img: "/images2/imags/product_gif_04P4.MP4",
     no: "V№08",
     tag: ["影片", "VIDEO"],
     title: ["", ""],
@@ -278,7 +278,7 @@ export const trackB: GalleryItem[] = [
   {
     kind: "image",
     id: "mp4_05",
-    img: "/images2/imags/product_gif_05P4.mp4",
+    img: "/images2/imags/product_gif_05P4.MP4",
     no: "V№09",
     tag: ["影片", "VIDEO"],
     title: ["", ""],
@@ -291,7 +291,7 @@ export const trackB: GalleryItem[] = [
   {
     kind: "image",
     id: "mp4_06",
-    img: "/images2/imags/product_gif_06P4.mp4",
+    img: "/images2/imags/product_gif_06P4.MP4",
     no: "V№10",
     tag: ["影片", "VIDEO"],
     title: ["", ""],
@@ -304,7 +304,7 @@ export const trackB: GalleryItem[] = [
   {
     kind: "image",
     id: "mp4_07",
-    img: "/images2/imags/product_gif_07P4.mp4",
+    img: "/images2/imags/product_gif_07P4.MP4",
     no: "V№11",
     tag: ["影片", "VIDEO"],
     title: ["", ""],
@@ -317,7 +317,7 @@ export const trackB: GalleryItem[] = [
   {
     kind: "image",
     id: "mp4_08",
-    img: "/images2/imags/product_gif_08P4.mp4",
+    img: "/images2/imags/product_gif_08P4.MP4",
     no: "V№12",
     tag: ["影片", "VIDEO"],
     title: ["", ""],
@@ -567,31 +567,12 @@ export const trackC: GalleryItem[] = [
     tools: MJ, tint: "#B98BD6",
   },
   /* ═══════════════════════════════════════════════════
-     新作品：CENTELLA 積雪草（1張）
-     ═══════════════════════════════════════════════════ */
-  {
-    kind: "image",
-    id: "centella_01",
-    img: "/images2/imags/centella1.png",
-    no: "A№40",
-    tag: ["AI 生成圖片", "AI IMAGE"],
-    title: ["積雪草修護精華液", "CENTELLA Ampoule"],
-    sub: ["舒緩修護精華", "Soothing Repair"],
-    story: [
-      "以簡潔的透明玻璃瓶身與品牌標誌重複排列，呈現 CENTELLA 積雪草精華的純淨與專注。透過清晰簡約的視覺語彙，傳達「單一成分、專注修護」的產品理念，讓消費者一眼感受來自馬達加斯加的積雪草力量。",
-      "Clean glass bottle and repeated branding convey the purity and focus of CENTELLA Centella Ampoule. Minimalist visuals communicate the 'single ingredient, targeted repair' philosophy, letting the power of Madagascar Centella speak for itself.",
-    ],
-    tools: ["Dreamina", "Nano Banana Pro"],
-    tint: "#6B9E7A",
-  },
-
-  /* ═══════════════════════════════════════════════════
      新作品：CHANEL GABRIELLE 琉金香水（5張）
      ═══════════════════════════════════════════════════ */
   {
     kind: "image",
     id: "chanel_gabrielle1",
-    img: "/images2/imags/chanel_gabrielle1.png",
+    img: "/images2/imags/chanel_gabrielle1.PNG",
     no: "A№41",
     tag: ["AI 生成圖片", "AI IMAGE"],
     title: ["香奈兒嘉柏麗琉金香水", "CHANEL GABRIELLE ESSENCE"],
@@ -606,7 +587,7 @@ export const trackC: GalleryItem[] = [
   {
     kind: "image",
     id: "chanel_gabrielle2",
-    img: "/images2/imags/chanel_gabrielle2.png",
+    img: "/images2/imags/chanel_gabrielle2.PNG",
     no: "A№42",
     tag: ["AI 生成圖片", "AI IMAGE"],
     title: ["香奈兒嘉柏麗琉金香水", "CHANEL GABRIELLE ESSENCE"],
@@ -621,7 +602,7 @@ export const trackC: GalleryItem[] = [
   {
     kind: "image",
     id: "chanel_gabrielle3",
-    img: "/images2/imags/chanel_gabrielle3.png",
+    img: "/images2/imags/chanel_gabrielle3.PNG",
     no: "A№43",
     tag: ["AI 生成圖片", "AI IMAGE"],
     title: ["香奈兒嘉柏麗琉金香水", "CHANEL GABRIELLE ESSENCE"],
@@ -636,7 +617,7 @@ export const trackC: GalleryItem[] = [
   {
     kind: "image",
     id: "chanel_gabrielle4",
-    img: "/images2/imags/chanel_gabrielle4.png",
+    img: "/images2/imags/chanel_gabrielle4.PNG",
     no: "A№44",
     tag: ["AI 生成圖片", "AI IMAGE"],
     title: ["香奈兒嘉柏麗琉金香水", "CHANEL GABRIELLE ESSENCE"],
@@ -651,7 +632,7 @@ export const trackC: GalleryItem[] = [
   {
     kind: "image",
     id: "chanel_gabrielle5",
-    img: "/images2/imags/chanel_gabrielle5.png",
+    img: "/images2/imags/chanel_gabrielle5.PNG",
     no: "A№45",
     tag: ["AI 生成圖片", "AI IMAGE"],
     title: ["香奈兒嘉柏麗琉金香水", "CHANEL GABRIELLE ESSENCE"],
@@ -670,7 +651,7 @@ export const trackC: GalleryItem[] = [
   {
     kind: "image",
     id: "chanel_lhuile1",
-    img: "/images2/imags/chanel_lhuile1.png",
+    img: "/images2/imags/chanel_lhuile1.PNG",
     no: "A№46",
     tag: ["AI 生成圖片", "AI IMAGE"],
     title: ["香奈兒深海精萃潔顏油", "CHANEL L'HUILE"],
@@ -685,7 +666,7 @@ export const trackC: GalleryItem[] = [
   {
     kind: "image",
     id: "chanel_lhuile2",
-    img: "/images2/imags/chanel_lhuile2.png",
+    img: "/images2/imags/chanel_lhuile2.PNG",
     no: "A№47",
     tag: ["AI 生成圖片", "AI IMAGE"],
     title: ["香奈兒深海精萃潔顏油", "CHANEL L'HUILE"],
@@ -700,7 +681,7 @@ export const trackC: GalleryItem[] = [
   {
     kind: "image",
     id: "chanel_lhuile3",
-    img: "/images2/imags/chanel_lhuile3.png",
+    img: "/images2/imags/chanel_lhuile3.PNG",
     no: "A№48",
     tag: ["AI 生成圖片", "AI IMAGE"],
     title: ["香奈兒深海精萃潔顏油", "CHANEL L'HUILE"],
@@ -719,7 +700,7 @@ export const trackC: GalleryItem[] = [
   {
     kind: "image",
     id: "chanel_no51",
-    img: "/images2/imags/chanel_no51.png",
+    img: "/images2/imags/chanel_no51.PNG",
     no: "A№49",
     tag: ["AI 生成圖片", "AI IMAGE"],
     title: ["香奈兒N°5經典香水", "CHANEL N°5"],
@@ -734,7 +715,7 @@ export const trackC: GalleryItem[] = [
   {
     kind: "image",
     id: "chanel_no52",
-    img: "/images2/imags/chanel_no52.png",
+    img: "/images2/imags/chanel_no52.PNG",
     no: "A№50",
     tag: ["AI 生成圖片", "AI IMAGE"],
     title: ["香奈兒N°5經典香水", "CHANEL N°5"],
@@ -753,7 +734,7 @@ export const trackC: GalleryItem[] = [
   {
     kind: "image",
     id: "clarins_01",
-    img: "/images2/imags/clarins_01.png",
+    img: "/images2/imags/clarins_01.PNG",
     no: "A№51",
     tag: ["AI 生成圖片", "AI IMAGE"],
     title: ["克蘭詩黃金雙萃精華", "CLARINS Double Serum"],
@@ -768,7 +749,7 @@ export const trackC: GalleryItem[] = [
   {
     kind: "image",
     id: "clarins_02",
-    img: "/images2/imags/clarins_02.png",
+    img: "/images2/imags/clarins_02.PNG",
     no: "A№52",
     tag: ["AI 生成圖片", "AI IMAGE"],
     title: ["克蘭詩黃金雙萃精華", "CLARINS Double Serum"],
@@ -783,7 +764,7 @@ export const trackC: GalleryItem[] = [
   {
     kind: "image",
     id: "clarins_03",
-    img: "/images2/imags/clarins_03.png",
+    img: "/images2/imags/clarins_03.PNG",
     no: "A№53",
     tag: ["AI 生成圖片", "AI IMAGE"],
     title: ["克蘭詩黃金雙萃精華", "CLARINS Double Serum"],
@@ -798,7 +779,7 @@ export const trackC: GalleryItem[] = [
   {
     kind: "image",
     id: "clarins_04",
-    img: "/images2/imags/clarins_04.png",
+    img: "/images2/imags/clarins_04.PNG",
     no: "A№54",
     tag: ["AI 生成圖片", "AI IMAGE"],
     title: ["克蘭詩黃金雙萃精華", "CLARINS Double Serum"],
@@ -813,7 +794,7 @@ export const trackC: GalleryItem[] = [
   {
     kind: "image",
     id: "clarins_05",
-    img: "/images2/imags/clarins_05.png",
+    img: "/images2/imags/clarins_05.PNG",
     no: "A№55",
     tag: ["AI 生成圖片", "AI IMAGE"],
     title: ["克蘭詩黃金雙萃精華", "CLARINS Double Serum"],
@@ -828,7 +809,7 @@ export const trackC: GalleryItem[] = [
   {
     kind: "image",
     id: "clarins_06",
-    img: "/images2/imags/clarins_06.png",
+    img: "/images2/imags/clarins_06.PNG",
     no: "A№56",
     tag: ["AI 生成圖片", "AI IMAGE"],
     title: ["克蘭詩黃金雙萃精華", "CLARINS Double Serum"],
@@ -843,7 +824,7 @@ export const trackC: GalleryItem[] = [
   {
     kind: "image",
     id: "clarins_07",
-    img: "/images2/imags/clarins_07.png",
+    img: "/images2/imags/clarins_07.PNG",
     no: "A№57",
     tag: ["AI 生成圖片", "AI IMAGE"],
     title: ["克蘭詩黃金雙萃精華", "CLARINS Double Serum"],
@@ -862,7 +843,7 @@ export const trackC: GalleryItem[] = [
   {
     kind: "image",
     id: "hggp_01",
-    img: "/images2/imags/hggp_01.png",
+    img: "/images2/imags/hggp_01.PNG",
     no: "A№58",
     tag: ["AI 生成圖片", "AI IMAGE"],
     title: ["水油雙層修護精華液", "Hggp Calming Repair Serum"],
@@ -877,7 +858,7 @@ export const trackC: GalleryItem[] = [
   {
     kind: "image",
     id: "hggp_02",
-    img: "/images2/imags/hggp_02.png",
+    img: "/images2/imags/hggp_02.PNG",
     no: "A№59",
     tag: ["AI 生成圖片", "AI IMAGE"],
     title: ["水油雙層修護精華液", "Hggp Calming Repair Serum"],
@@ -892,7 +873,7 @@ export const trackC: GalleryItem[] = [
   {
     kind: "image",
     id: "hggp_03",
-    img: "/images2/imags/hggp_03.png",
+    img: "/images2/imags/hggp_03.PNG",
     no: "A№60",
     tag: ["AI 生成圖片", "AI IMAGE"],
     title: ["水油雙層修護精華液", "Hggp Calming Repair Serum"],
@@ -907,7 +888,7 @@ export const trackC: GalleryItem[] = [
   {
     kind: "image",
     id: "hggp_04",
-    img: "/images2/imags/hggp_04.png",
+    img: "/images2/imags/hggp_04.PNG",
     no: "A№61",
     tag: ["AI 生成圖片", "AI IMAGE"],
     title: ["水油雙層修護精華液", "Hggp Calming Repair Serum"],
@@ -922,7 +903,7 @@ export const trackC: GalleryItem[] = [
   {
     kind: "image",
     id: "hggp_05",
-    img: "/images2/imags/hggp_05.png",
+    img: "/images2/imags/hggp_05.PNG",
     no: "A№62",
     tag: ["AI 生成圖片", "AI IMAGE"],
     title: ["水油雙層修護精華液", "Hggp Calming Repair Serum"],
@@ -937,7 +918,7 @@ export const trackC: GalleryItem[] = [
   {
     kind: "image",
     id: "hggp_06",
-    img: "/images2/imags/hggp_06.png",
+    img: "/images2/imags/hggp_06.PNG",
     no: "A№63",
     tag: ["AI 生成圖片", "AI IMAGE"],
     title: ["水油雙層修護精華液", "Hggp Calming Repair Serum"],
@@ -952,7 +933,7 @@ export const trackC: GalleryItem[] = [
   {
     kind: "image",
     id: "hggp_07",
-    img: "/images2/imags/hggp_07.png",
+    img: "/images2/imags/hggp_07.PNG",
     no: "A№64",
     tag: ["AI 生成圖片", "AI IMAGE"],
     title: ["水油雙層修護精華液", "Hggp Calming Repair Serum"],
@@ -967,7 +948,7 @@ export const trackC: GalleryItem[] = [
   {
     kind: "image",
     id: "hggp_08",
-    img: "/images2/imags/hggp_08.png",
+    img: "/images2/imags/hggp_08.PNG",
     no: "A№65",
     tag: ["AI 生成圖片", "AI IMAGE"],
     title: ["水油雙層修護精華液", "Hggp Calming Repair Serum"],
@@ -979,13 +960,13 @@ export const trackC: GalleryItem[] = [
     tools: ["Midjourney v6", "Dreamina"],
     tint: "#F5D76E",
   },
-    /* ═══════════════════════════════════════════════════
+  /* ═══════════════════════════════════════════════════
      新作品：OLAY PRO X 淡紋修護黑管精華（1張）
      ═══════════════════════════════════════════════════ */
   {
     kind: "image",
     id: "olay_prcx_01",
-    img: "/images2/imags/olay_prcx_01.png",
+    img: "/images2/imags/olay_prcx_01.PNG",
     no: "A№66",
     tag: ["AI 生成圖片", "AI IMAGE"],
     title: ["OLAY PRO X 淡紋修護黑管精華", "OLAY PRO X Retinol Peptide"],
@@ -1004,7 +985,7 @@ export const trackC: GalleryItem[] = [
   {
     kind: "image",
     id: "mm_replica_01",
-    img: "/images2/imags/mm_replica_01.png",
+    img: "/images2/imags/mm_replica_01.PNG",
     no: "A№67",
     tag: ["AI 生成圖片", "AI IMAGE"],
     title: ["Maison Margiela 復古壁爐淡香水", "REPLICA By the Fireplace"],
@@ -1019,7 +1000,7 @@ export const trackC: GalleryItem[] = [
   {
     kind: "image",
     id: "mm_replica_02",
-    img: "/images2/imags/mm_replica_02.png",
+    img: "/images2/imags/mm_replica_02.PNG",
     no: "A№68",
     tag: ["AI 生成圖片", "AI IMAGE"],
     title: ["Maison Margiela 復古壁爐淡香水", "REPLICA By the Fireplace"],
@@ -1034,7 +1015,7 @@ export const trackC: GalleryItem[] = [
   {
     kind: "image",
     id: "mm_replica_03",
-    img: "/images2/imags/mm_replica_03.png",
+    img: "/images2/imags/mm_replica_03.PNG",
     no: "A№69",
     tag: ["AI 生成圖片", "AI IMAGE"],
     title: ["Maison Margiela 復古壁爐淡香水", "REPLICA By the Fireplace"],
@@ -1049,7 +1030,7 @@ export const trackC: GalleryItem[] = [
   {
     kind: "image",
     id: "mm_replica_04",
-    img: "/images2/imags/mm_replica_04.png",
+    img: "/images2/imags/mm_replica_04.PNG",
     no: "A№70",
     tag: ["AI 生成圖片", "AI IMAGE"],
     title: ["Maison Margiela 復古壁爐淡香水", "REPLICA By the Fireplace"],
@@ -1064,7 +1045,7 @@ export const trackC: GalleryItem[] = [
   {
     kind: "image",
     id: "mm_replica_05",
-    img: "/images2/imags/mm_replica_05.png",
+    img: "/images2/imags/mm_replica_05.PNG",
     no: "A№71",
     tag: ["AI 生成圖片", "AI IMAGE"],
     title: ["Maison Margiela 復古壁爐淡香水", "REPLICA By the Fireplace"],
@@ -1083,7 +1064,7 @@ export const trackC: GalleryItem[] = [
   {
     kind: "image",
     id: "ysl_libre_01",
-    img: "/images2/imags/ysl_libre_01.png",
+    img: "/images2/imags/ysl_libre_01.PNG",
     no: "A№72",
     tag: ["AI 生成圖片", "AI IMAGE"],
     title: ["YSL自由不羈沁心之果香水", "YSL Libre Eau de Parfum"],
@@ -1098,7 +1079,7 @@ export const trackC: GalleryItem[] = [
   {
     kind: "image",
     id: "ysl_libre_02",
-    img: "/images2/imags/ysl_libre_02.png",
+    img: "/images2/imags/ysl_libre_02.PNG",
     no: "A№73",
     tag: ["AI 生成圖片", "AI IMAGE"],
     title: ["YSL自由不羈沁心之果香水", "YSL Libre Eau de Parfum"],
@@ -1113,7 +1094,7 @@ export const trackC: GalleryItem[] = [
   {
     kind: "image",
     id: "ysl_libre_03",
-    img: "/images2/imags/ysl_libre_03.png",
+    img: "/images2/imags/ysl_libre_03.PNG",
     no: "A№74",
     tag: ["AI 生成圖片", "AI IMAGE"],
     title: ["YSL自由不羈沁心之果香水", "YSL Libre Eau de Parfum"],
@@ -1128,7 +1109,7 @@ export const trackC: GalleryItem[] = [
   {
     kind: "image",
     id: "ysl_libre_04",
-    img: "/images2/imags/ysl_libre_04.png",
+    img: "/images2/imags/ysl_libre_04.PNG",
     no: "A№75",
     tag: ["AI 生成圖片", "AI IMAGE"],
     title: ["YSL自由不羈沁心之果香水", "YSL Libre Eau de Parfum"],
@@ -1143,7 +1124,7 @@ export const trackC: GalleryItem[] = [
   {
     kind: "image",
     id: "ysl_libre_05",
-    img: "/images2/imags/ysl_libre_05.png",
+    img: "/images2/imags/ysl_libre_05.PNG",
     no: "A№76",
     tag: ["AI 生成圖片", "AI IMAGE"],
     title: ["YSL自由不羈沁心之果香水", "YSL Libre Eau de Parfum"],
@@ -1162,7 +1143,7 @@ export const trackC: GalleryItem[] = [
   {
     kind: "image",
     id: "ysl_candy_01",
-    img: "/images2/imags/ysl_candy_01.png",
+    img: "/images2/imags/ysl_candy_01.PNG",
     no: "A№77",
     tag: ["AI 生成圖片", "AI IMAGE"],
     title: ["YSL情迷水光蜜唇膏", "YSL Candy Glaze Lipstick"],
@@ -1177,7 +1158,7 @@ export const trackC: GalleryItem[] = [
   {
     kind: "image",
     id: "ysl_candy_02",
-    img: "/images2/imags/ysl_candy_02.png",
+    img: "/images2/imags/ysl_candy_02.PNG",
     no: "A№78",
     tag: ["AI 生成圖片", "AI IMAGE"],
     title: ["YSL情迷水光蜜唇膏", "YSL Candy Glaze Lipstick"],
@@ -1192,7 +1173,7 @@ export const trackC: GalleryItem[] = [
   {
     kind: "image",
     id: "ysl_candy_03",
-    img: "/images2/imags/ysl_candy_03.png",
+    img: "/images2/imags/ysl_candy_03.PNG",
     no: "A№79",
     tag: ["AI 生成圖片", "AI IMAGE"],
     title: ["YSL情迷水光蜜唇膏", "YSL Candy Glaze Lipstick"],
@@ -1207,7 +1188,7 @@ export const trackC: GalleryItem[] = [
   {
     kind: "image",
     id: "ysl_candy_04",
-    img: "/images2/imags/ysl_candy_04.png",
+    img: "/images2/imags/ysl_candy_04.PNG",
     no: "A№80",
     tag: ["AI 生成圖片", "AI IMAGE"],
     title: ["YSL情迷水光蜜唇膏", "YSL Candy Glaze Lipstick"],
@@ -1222,7 +1203,7 @@ export const trackC: GalleryItem[] = [
   {
     kind: "image",
     id: "ysl_candy_05",
-    img: "/images2/imags/ysl_candy_05.png",
+    img: "/images2/imags/ysl_candy_05.PNG",
     no: "A№81",
     tag: ["AI 生成圖片", "AI IMAGE"],
     title: ["YSL情迷水光蜜唇膏", "YSL Candy Glaze Lipstick"],
@@ -1237,7 +1218,7 @@ export const trackC: GalleryItem[] = [
   {
     kind: "image",
     id: "ysl_candy_06",
-    img: "/images2/imags/ysl_candy_06.png",
+    img: "/images2/imags/ysl_candy_06.PNG",
     no: "A№82",
     tag: ["AI 生成圖片", "AI IMAGE"],
     title: ["YSL情迷水光蜜唇膏", "YSL Candy Glaze Lipstick"],
@@ -1252,7 +1233,7 @@ export const trackC: GalleryItem[] = [
   {
     kind: "image",
     id: "ysl_candy_07",
-    img: "/images2/imags/ysl_candy_07.png",
+    img: "/images2/imags/ysl_candy_07.PNG",
     no: "A№83",
     tag: ["AI 生成圖片", "AI IMAGE"],
     title: ["YSL情迷水光蜜唇膏", "YSL Candy Glaze Lipstick"],
@@ -1267,7 +1248,7 @@ export const trackC: GalleryItem[] = [
   {
     kind: "image",
     id: "ysl_candy_08",
-    img: "/images2/imags/ysl_candy_08.png",
+    img: "/images2/imags/ysl_candy_08.PNG",
     no: "A№84",
     tag: ["AI 生成圖片", "AI IMAGE"],
     title: ["YSL情迷水光蜜唇膏", "YSL Candy Glaze Lipstick"],
@@ -1282,7 +1263,7 @@ export const trackC: GalleryItem[] = [
   {
     kind: "image",
     id: "ysl_candy_09",
-    img: "/images2/imags/ysl_candy_09.png",
+    img: "/images2/imags/ysl_candy_09.PNG",
     no: "A№85",
     tag: ["AI 生成圖片", "AI IMAGE"],
     title: ["YSL情迷水光蜜唇膏", "YSL Candy Glaze Lipstick"],
@@ -1297,7 +1278,7 @@ export const trackC: GalleryItem[] = [
   {
     kind: "image",
     id: "ysl_candy_10",
-    img: "/images2/imags/ysl_candy_10.png",
+    img: "/images2/imags/ysl_candy_10.PNG",
     no: "A№86",
     tag: ["AI 生成圖片", "AI IMAGE"],
     title: ["YSL情迷水光蜜唇膏", "YSL Candy Glaze Lipstick"],
