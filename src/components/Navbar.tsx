@@ -111,7 +111,8 @@ export default function Navbar() {
                       exit={{ opacity: 0, scale: 0.86, y: -10 }}
                       transition={{ type: "spring", stiffness: 300, damping: 24 }}
                       style={{ transformOrigin: "top right" }}
-                      className="fixed inset-3 top-20 z-[95] max-h-[calc(100svh-6.5rem)] overflow-y-auto overscroll-contain rounded-[28px] border border-wisteria/25 bg-abyss/95 p-3.5 shadow-[0_30px_80px_rgba(0,0,0,.6),0_0_50px_rgba(190,174,219,.12)] backdrop-blur-2xl md:absolute md:inset-auto md:right-0 md:top-[calc(100%+14px)] md:w-[478px] md:max-h-none md:overflow-visible"
+                      // ★★★ 修正點：手機上改為全螢幕覆蓋，桌面板保留原卡片樣式 ★★★
+                      className="fixed inset-0 z-[95] overflow-y-auto overscroll-contain bg-abyss/95 p-4 backdrop-blur-2xl md:absolute md:inset-auto md:right-0 md:top-[calc(100%+14px)] md:w-[478px] md:max-h-none md:overflow-visible md:rounded-[28px] md:border md:border-wisteria/25 md:p-3.5 md:shadow-[0_30px_80px_rgba(0,0,0,.6),0_0_50px_rgba(190,174,219,.12)]"
                     >
                       {/* palette lid / mirror sheen */}
                       <div className="mb-3 flex items-center justify-between px-1.5 pt-1">
