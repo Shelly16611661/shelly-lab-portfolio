@@ -567,6 +567,24 @@ export const trackC: GalleryItem[] = [
     tools: MJ, tint: "#B98BD6",
   },
   /* ═══════════════════════════════════════════════════
+     新作品：CENTELLA 積雪草（1張）
+     ═══════════════════════════════════════════════════ */
+  {
+    kind: "image",
+    id: "centella_01",
+    img: "/images2/imags/centella1.PNG",
+    no: "A№40",
+    tag: ["AI 生成圖片", "AI IMAGE"],
+    title: ["積雪草修護精華液", "CENTELLA Ampoule"],
+    sub: ["舒緩修護精華", "Soothing Repair"],
+    story: [
+      "以簡潔的透明玻璃瓶身與品牌標誌重複排列，呈現 CENTELLA 積雪草精華的純淨與專注。透過清晰簡約的視覺語彙，傳達「單一成分、專注修護」的產品理念，讓消費者一眼感受來自馬達加斯加的積雪草力量。",
+      "Clean glass bottle and repeated branding convey the purity and focus of CENTELLA Centella Ampoule. Minimalist visuals communicate the 'single ingredient, targeted repair' philosophy, letting the power of Madagascar Centella speak for itself.",
+    ],
+    tools: ["Dreamina", "Nano Banana Pro"],
+    tint: "#6B9E7A",
+  },
+  /* ═══════════════════════════════════════════════════
      新作品：CHANEL GABRIELLE 琉金香水（5張）
      ═══════════════════════════════════════════════════ */
   {
@@ -1295,6 +1313,6 @@ export const trackC: GalleryItem[] = [
 /* Hero 拍立得用圖（沿用你 repo 既有檔名） */
 export const heroShots = [
   "/images2/imags/shelly1.JPG",
-  "/images2/imags/shelly2",
-  "/images2/imags/shelly3",
+  "/images2/imags/shelly1.JPG",
+  "/images2/imags/shelly3.JPG",
 ];
