@@ -1003,7 +1003,7 @@ export const trackC: GalleryItem[] = [
   {
     kind: "image",
     id: "mm_replica_01",
-    img: "/images2/imags/mm_replica1.PNG",
+    img: "/images2/imags/mm_replica_fireplace1.PNGG",
     no: "A№67",
     tag: ["AI 生成圖片", "AI IMAGE"],
     title: ["Maison Margiela 復古壁爐淡香水", "REPLICA By the Fireplace"],
@@ -1018,7 +1018,7 @@ export const trackC: GalleryItem[] = [
   {
     kind: "image",
     id: "mm_replica_02",
-    img: "/images2/imags/mm_replica2.PNG",
+    img: "/images2/imags/mm_replica_fireplace2.PNG",
     no: "A№68",
     tag: ["AI 生成圖片", "AI IMAGE"],
     title: ["Maison Margiela 復古壁爐淡香水", "REPLICA By the Fireplace"],
@@ -1033,7 +1033,7 @@ export const trackC: GalleryItem[] = [
   {
     kind: "image",
     id: "mm_replica_03",
-    img: "/images2/imags/mm_replica3.PNG",
+    img: "/images2/imags/mm_replica_fireplace3.PNG",
     no: "A№69",
     tag: ["AI 生成圖片", "AI IMAGE"],
     title: ["Maison Margiela 復古壁爐淡香水", "REPLICA By the Fireplace"],
@@ -1048,7 +1048,7 @@ export const trackC: GalleryItem[] = [
   {
     kind: "image",
     id: "mm_replica_04",
-    img: "/images2/imags/mm_replica4.PNG",
+    img: "/images2/imags/mm_replica_fireplace4.PNG",
     no: "A№70",
     tag: ["AI 生成圖片", "AI IMAGE"],
     title: ["Maison Margiela 復古壁爐淡香水", "REPLICA By the Fireplace"],
@@ -1063,7 +1063,7 @@ export const trackC: GalleryItem[] = [
   {
     kind: "image",
     id: "mm_replica_05",
-    img: "/images2/imags/mm_replica5.PNG",
+    img: "/images2/imags/mm_replica_fireplace5.PNG",
     no: "A№71",
     tag: ["AI 生成圖片", "AI IMAGE"],
     title: ["Maison Margiela 復古壁爐淡香水", "REPLICA By the Fireplace"],
@@ -1176,7 +1176,7 @@ export const trackC: GalleryItem[] = [
   {
     kind: "image",
     id: "ysl_candy_glaze2.PNG",
-    img: "/images2/imags/ysl_candy_glaze2.PNGG",
+    img: "/images2/imags/ysl_candy_glaze2.PNG",
     no: "A№78",
     tag: ["AI 生成圖片", "AI IMAGE"],
     title: ["YSL情迷水光蜜唇膏", "YSL Candy Glaze Lipstick"],
