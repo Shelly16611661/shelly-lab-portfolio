@@ -669,7 +669,7 @@ export const trackC: GalleryItem[] = [
   {
     kind: "image",
     id: "chanel_lhuile1",
-    img: "/images2/imags/chanel_lhuile1.PNG",
+    img: "/images2/imags/chanel_lhuile1.JPG",
     no: "A№46",
     tag: ["AI 生成圖片", "AI IMAGE"],
     title: ["香奈兒深海精萃潔顏油", "CHANEL L'HUILE"],
@@ -684,7 +684,7 @@ export const trackC: GalleryItem[] = [
   {
     kind: "image",
     id: "chanel_lhuile2",
-    img: "/images2/imags/chanel_lhuile2.PNG",
+    img: "/images2/imags/chanel_lhuile2.JPG",
     no: "A№47",
     tag: ["AI 生成圖片", "AI IMAGE"],
     title: ["香奈兒深海精萃潔顏油", "CHANEL L'HUILE"],
@@ -699,7 +699,7 @@ export const trackC: GalleryItem[] = [
   {
     kind: "image",
     id: "chanel_lhuile3",
-    img: "/images2/imags/chanel_lhuile3.PNG",
+    img: "/images2/imags/chanel_lhuile3.JPG",
     no: "A№48",
     tag: ["AI 生成圖片", "AI IMAGE"],
     title: ["香奈兒深海精萃潔顏油", "CHANEL L'HUILE"],
@@ -1313,6 +1313,6 @@ export const trackC: GalleryItem[] = [
 /* Hero 拍立得用圖（沿用你 repo 既有檔名） */
 export const heroShots = [
   "/images2/imags/shelly1.JPG",
-  "/images2/imags/shelly2JPG",
+  "/images2/imags/shelly2.JPG",
   "/images2/imags/shelly3.JPG",
 ];
