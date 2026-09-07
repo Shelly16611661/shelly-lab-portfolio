@@ -115,19 +115,23 @@ function FlipCard({ item }: { item: GalleryItem }) {
             ))}
           </div>
 
-          {item.link && item.linkLabel && (
-            <a
-              href={item.link}
-              target="_blank"
-              rel="noreferrer"
-              onClick={(e) => e.stopPropagation()}
-              aria-label={`${c.lab.openLink}: ${t(item.title)}`}
-              className="sheen mt-3 inline-flex w-fit items-center gap-1.5 rounded-full bg-gradient-to-r from-jacarta-2 to-lav px-4 py-1.5 text-[11px] font-bold text-mist shadow-[0_6px_18px_rgba(117,97,157,.35)] transition-transform duration-300 hover:-translate-y-0.5"
-            >
-              <ExternalLink className="h-3 w-3" />
-              {t(item.linkLabel)}
-            </a>
-          )}
+{item.link && item.linkLabel && (
+  <a
+    href={item.link}
+    target="_blank"
+    rel="noreferrer"
+    onClick={(e) => {
+      e.stopPropagation();
+      e.preventDefault();          // 阻止瀏覽器預設行為
+      window.open(item.link, '_blank'); // 強制用新視窗打開
+    }}
+    aria-label={`${c.lab.openLink}: ${t(item.title)}`}
+    className="sheen mt-3 inline-flex w-fit items-center gap-1.5 rounded-full bg-gradient-to-r from-jacarta-2 to-lav px-4 py-1.5 text-[11px] font-bold text-mist shadow-[0_6px_18px_rgba(117,97,157,.35)] transition-transform duration-300 hover:-translate-y-0.5"
+  >
+    <ExternalLink className="h-3 w-3" />
+    {t(item.linkLabel)}
+  </a>
+)}
         </div>
       </div>
     </div>
