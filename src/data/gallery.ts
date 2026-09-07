@@ -1,10 +1,3 @@
-/* ══════════════════════════════════════════════════════════
-   作品資料庫 — 改用英文資料夾命名（避免 Vercel 中文路徑問題）：
-   ✦ 文件/PDF → public/images2/xxx.pdf
-   ✦ AI 圖片 → public/images2/imags/xx.png
-   ✦ 影片   → public/videos/xxx.mp4
-   ══════════════════════════════════════════════════════════ */
-
 const LINK_FILM = "https://drive.google.com/drive/folders/1yOH_R5OLjpgNuuwgPulSoXWXnp2PIGiZ?usp=sharing";
 
 export type GalleryItem =
