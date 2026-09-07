@@ -1,0 +1,7 @@
+把 PDF 文件放進這個資料夾（沿用 GitHub 倉庫既有檔名）：
+huashan_coffee.pdf / subscription_economy1.pdf / night_market_ecosystem.pdf
+rebuilding glory in the unreachable distance.pdf / greenpoint_marketing.pdf
+five_fortune_culture.pdf / supermarket_research.pdf / shin_kong_mitsukoshi.pdf
+time_record_cafe.pdf / cama_senses_analysis.pdf
+song dynasty clothing.pdf / Café Theme Menu.pdf / yinling_delicious_box.pdf
+以及大頭貼 shelly.JPG；AI 圖片請放 imags/ 子資料夾（11.png ~ 33.png）

@@ -1,0 +1,2 @@
+把 MP4 影片放進這個資料夾（沿用 GitHub 倉庫既有檔名）：
+nmo.mp4 / egypt1.mp4 / egypt2.mp4
