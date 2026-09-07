@@ -1,7 +1,7 @@
 /* ══════════════════════════════════════════════════════════
    作品資料庫 — 改用英文資料夾命名（避免 Vercel 中文路徑問題）：
-   ✦ 文件/PDF → public/images/xxx.pdf
-   ✦ AI 圖片 → public/images/imags/xx.png
+   ✦ 文件/PDF → public/images2/xxx.pdf
+   ✦ AI 圖片 → public/images2/imags/xx.png
    ✦ 影片   → public/videos/xxx.mp4
    ══════════════════════════════════════════════════════════ */
 
@@ -50,7 +50,7 @@ export const trackA: GalleryItem[] = [
     ],
     tools: ["市場調查", "統計分析", "行銷策略", "品牌定位"],
     tint: "#BEAEDB",
-    link: "/images/huashan_coffee.pdf",
+    link: "/images2/huashan_coffee.pdf",
     linkLabel: ["查看簡報 PDF", "Open PDF"],
   },
   {
@@ -64,7 +64,7 @@ export const trackA: GalleryItem[] = [
     ],
     tools: ["訂閱經濟", "消費者行為", "品牌分析", "商業模式"],
     tint: "#F9E6A8",
-    link: "/images/subscription_economy1.pdf",
+    link: "/images2/subscription_economy1.pdf",
     linkLabel: ["查看簡報 PDF", "Open PDF"],
   },
   {
@@ -78,7 +78,7 @@ export const trackA: GalleryItem[] = [
     ],
     tools: ["實地調研", "創新企劃", "團隊領導"],
     tint: "#F2A7D8",
-    link: "/images/night_market_ecosystem.pdf",
+    link: "/images2/night_market_ecosystem.pdf",
     linkLabel: ["查看報告 PDF", "Open PDF"],
   },
   {
@@ -92,7 +92,7 @@ export const trackA: GalleryItem[] = [
     ],
     tools: ["AI 修復", "AR 體驗", "資訊管理", "文化遺產"],
     tint: "#947FC9",
-    link: "/images/rebuilding glory in the unreachable distance.pdf",
+    link: "/images2/rebuilding glory in the unreachable distance.pdf",
     linkLabel: ["查看簡報 PDF", "Open PDF"],
   },
   {
@@ -106,7 +106,7 @@ export const trackA: GalleryItem[] = [
     ],
     tools: ["行銷企劃", "永續創新", "活動設計", "數據分析"],
     tint: "#7BC98F",
-    link: "/images/greenpoint_marketing.pdf",
+    link: "/images2/greenpoint_marketing.pdf",
     linkLabel: ["查看企劃 PDF", "Open PDF"],
   },
   {
@@ -120,7 +120,7 @@ export const trackA: GalleryItem[] = [
     ],
     tools: ["文化研究", "歷史考據", "非遺傳承"],
     tint: "#E06464",
-    link: "/images/five_fortune_culture.pdf",
+    link: "/images2/five_fortune_culture.pdf",
     linkLabel: ["查看簡報 PDF", "Open PDF"],
   },
   {
@@ -134,7 +134,7 @@ export const trackA: GalleryItem[] = [
     ],
     tools: ["市場調查", "品牌分析", "消費者行為", "問卷設計"],
     tint: "#64A8E0",
-    link: "/images/supermarket_research.pdf",
+    link: "/images2/supermarket_research.pdf",
     linkLabel: ["查看研究 PDF", "Open PDF"],
   },
   {
@@ -148,7 +148,7 @@ export const trackA: GalleryItem[] = [
     ],
     tools: ["零售管理", "品牌分析", "選址策略", "市場趨勢", "百貨業態"],
     tint: "#E08FA6",
-    link: "/images/shin_kong_mitsukoshi.pdf",
+    link: "/images2/shin_kong_mitsukoshi.pdf",
     linkLabel: ["查看報告 PDF", "Open PDF"],
   },
   {
@@ -162,7 +162,7 @@ export const trackA: GalleryItem[] = [
     ],
     tools: ["創業企劃", "商業模式", "財務規劃", "空間設計", "品牌定位"],
     tint: "#D8A86A",
-    link: "/images/time_record_cafe.pdf",
+    link: "/images2/time_record_cafe.pdf",
     linkLabel: ["查看企劃 PDF", "Open PDF"],
   },
   {
@@ -176,7 +176,7 @@ export const trackA: GalleryItem[] = [
     ],
     tools: ["品牌分析", "五感體驗", "顧客關係", "門市服務"],
     tint: "#E0B64F",
-    link: "/images/cama_senses_analysis.pdf",
+    link: "/images2/cama_senses_analysis.pdf",
     linkLabel: ["查看報告 PDF", "Open PDF"],
   },
   {
@@ -190,7 +190,7 @@ export const trackA: GalleryItem[] = [
     ],
     tools: ["文獻研究", "視覺整理", "文化議題"],
     tint: "#7B86C9",
-    link: "/images/song dynasty clothing.pdf",
+    link: "/images2/song dynasty clothing.pdf",
     linkLabel: ["查看 PDF", "Open PDF"],
   },
   {
@@ -204,7 +204,7 @@ export const trackA: GalleryItem[] = [
     ],
     tools: ["菜單設計", "品牌視覺", "插畫排版"],
     tint: "#B79BDF",
-    link: "/images/Café Theme Menu.pdf",
+    link: "/images2/Café Theme Menu.pdf",
     linkLabel: ["查看 PDF", "Open PDF"],
   },
   {
@@ -218,7 +218,7 @@ export const trackA: GalleryItem[] = [
     ],
     tools: ["包裝設計", "視覺提案"],
     tint: "#8E7BD8",
-    link: "/images/yinling_delicious_box.pdf",
+    link: "/images2/yinling_delicious_box.pdf",
     linkLabel: ["查看 PDF", "Open PDF"],
   },
 ];
@@ -287,7 +287,7 @@ export const trackB: GalleryItem[] = [
 const MJ = ["Midjourney v6"];
 export const trackC: GalleryItem[] = [
   {
-    kind: "image", id: "i11", img: "/images/imags/11.png", no: "A№01",
+    kind: "image", id: "i11", img: "/images2/imags/11.png", no: "A№01",
     tag: ["AI 生成圖片", "AI IMAGE"],
     title: ["咖啡廳 · 建築外觀", "Café · Facade"],
     sub: ["時光唱片行-Café 系列", "Time-Record Café Series"],
@@ -295,7 +295,7 @@ export const trackC: GalleryItem[] = [
     tools: MJ, tint: "#D8A86A",
   },
   {
-    kind: "image", id: "i12", img: "/images/imags/12.png", no: "A№02",
+    kind: "image", id: "i12", img: "/images2/imags/12.png", no: "A№02",
     tag: ["AI 生成圖片", "AI IMAGE"],
     title: ["咖啡廳 · 吧檯設計", "Café · Bar Counter"],
     sub: ["時光唱片行-Café 系列", "Time-Record Café Series"],
@@ -303,7 +303,7 @@ export const trackC: GalleryItem[] = [
     tools: MJ, tint: "#D8A86A",
   },
   {
-    kind: "image", id: "i13", img: "/images/imags/13.png", no: "A№03",
+    kind: "image", id: "i13", img: "/images2/imags/13.png", no: "A№03",
     tag: ["AI 生成圖片", "AI IMAGE"],
     title: ["咖啡廳 · 內部空間", "Café · Interior"],
     sub: ["時光唱片行-Café 系列", "Time-Record Café Series"],
@@ -311,7 +311,7 @@ export const trackC: GalleryItem[] = [
     tools: MJ, tint: "#D8A86A",
   },
   {
-    kind: "image", id: "i15", img: "/images/imags/15.png", no: "A№04",
+    kind: "image", id: "i15", img: "/images2/imags/15.png", no: "A№04",
     tag: ["AI 生成圖片", "AI IMAGE"],
     title: ["咖啡廳 · 餐桌設計", "Café · Table Setting"],
     sub: ["時光唱片行-Café 系列", "Time-Record Café Series"],
@@ -319,7 +319,7 @@ export const trackC: GalleryItem[] = [
     tools: MJ, tint: "#D8A86A",
   },
   {
-    kind: "image", id: "i16", img: "/images/imags/16.png", no: "A№05",
+    kind: "image", id: "i16", img: "/images2/imags/16.png", no: "A№05",
     tag: ["AI 生成圖片", "AI IMAGE"],
     title: ["咖啡渣環保杯", "Coffee-Grounds Eco Cup"],
     sub: ["環保設計", "Eco Design"],
@@ -327,7 +327,7 @@ export const trackC: GalleryItem[] = [
     tools: MJ, tint: "#7BC98F",
   },
   {
-    kind: "image", id: "i17", img: "/images/imags/17.png", no: "A№06",
+    kind: "image", id: "i17", img: "/images2/imags/17.png", no: "A№06",
     tag: ["AI 生成圖片", "AI IMAGE"],
     title: ["渲染 · 眼霜", "Render · Eye Cream"],
     sub: ["產品渲染", "Product Render"],
@@ -335,7 +335,7 @@ export const trackC: GalleryItem[] = [
     tools: MJ, tint: "#8F6FC4",
   },
   {
-    kind: "image", id: "i18", img: "/images/imags/18.PNG", no: "A№07",
+    kind: "image", id: "i18", img: "/images2/imags/18.PNG", no: "A№07",
     tag: ["AI 生成圖片", "AI IMAGE"],
     title: ["手作餅乾 · 烘焙攝影", "Handmade Cookies"],
     sub: ["烘焙", "Bakery"],
@@ -343,7 +343,7 @@ export const trackC: GalleryItem[] = [
     tools: MJ, tint: "#E0B64F",
   },
   {
-    kind: "image", id: "i19", img: "/images/imags/19.PNG", no: "A№08",
+    kind: "image", id: "i19", img: "/images2/imags/19.PNG", no: "A№08",
     tag: ["AI 生成圖片", "AI IMAGE"],
     title: ["餅乾細節 · 微距攝影", "Cookie Macro"],
     sub: ["烘焙", "Bakery"],
@@ -351,7 +351,7 @@ export const trackC: GalleryItem[] = [
     tools: MJ, tint: "#E0B64F",
   },
   {
-    kind: "image", id: "i20", img: "/images/imags/20.jpeg", no: "A№09",
+    kind: "image", id: "i20", img: "/images2/imags/20.jpeg", no: "A№09",
     tag: ["AI 生成圖片", "AI IMAGE"],
     title: ["磁帶咖啡廳 · 內部空間", "Cassette Café · Interior"],
     sub: ["時光唱片行-Café 系列", "Time-Record Café Series"],
@@ -359,7 +359,7 @@ export const trackC: GalleryItem[] = [
     tools: MJ, tint: "#D8A86A",
   },
   {
-    kind: "image", id: "i21", img: "/images/imags/21.PNG", no: "A№10",
+    kind: "image", id: "i21", img: "/images2/imags/21.PNG", no: "A№10",
     tag: ["AI 生成圖片", "AI IMAGE"],
     title: ["餅乾細節 · 微距攝影", "Cookie Macro"],
     sub: ["烘焙", "Bakery"],
@@ -367,7 +367,7 @@ export const trackC: GalleryItem[] = [
     tools: MJ, tint: "#E0B64F",
   },
   {
-    kind: "image", id: "i22", img: "/images/imags/22.png", no: "A№11",
+    kind: "image", id: "i22", img: "/images2/imags/22.png", no: "A№11",
     tag: ["AI 生成圖片", "AI IMAGE"],
     title: ["咖啡廳 · 吧檯設計", "Café · Bar Counter"],
     sub: ["時光唱片行-Café 系列", "Time-Record Café Series"],
@@ -375,7 +375,7 @@ export const trackC: GalleryItem[] = [
     tools: MJ, tint: "#D8A86A",
   },
   {
-    kind: "image", id: "i23", img: "/images/imags/23.png", no: "A№12",
+    kind: "image", id: "i23", img: "/images2/imags/23.png", no: "A№12",
     tag: ["AI 生成圖片", "AI IMAGE"],
     title: ["印尼鳳梨酥精靈 · 宣傳故事版分鏡圖", "Pineapple-Cake Sprite · Storyboard"],
     sub: ["印尼鳳梨酥", "Indonesian Pineapple Cake"],
@@ -383,7 +383,7 @@ export const trackC: GalleryItem[] = [
     tools: MJ, tint: "#F2A7D8",
   },
   {
-    kind: "image", id: "i24", img: "/images/imags/24.png", no: "A№13",
+    kind: "image", id: "i24", img: "/images2/imags/24.png", no: "A№13",
     tag: ["AI 生成圖片", "AI IMAGE"],
     title: ["印尼鳳梨酥精靈", "Pineapple-Cake Sprite"],
     sub: ["印尼鳳梨酥 · 角色設計", "Character Design"],
@@ -391,7 +391,7 @@ export const trackC: GalleryItem[] = [
     tools: MJ, tint: "#F2A7D8",
   },
   {
-    kind: "image", id: "i25", img: "/images/imags/25.png", no: "A№14",
+    kind: "image", id: "i25", img: "/images2/imags/25.png", no: "A№14",
     tag: ["AI 生成圖片", "AI IMAGE"],
     title: ["餅乾細節 · 微距攝影", "Cookie Macro"],
     sub: ["烘焙", "Bakery"],
@@ -399,7 +399,7 @@ export const trackC: GalleryItem[] = [
     tools: MJ, tint: "#E0B64F",
   },
   {
-    kind: "image", id: "i26", img: "/images/imags/26.png", no: "A№15",
+    kind: "image", id: "i26", img: "/images2/imags/26.png", no: "A№15",
     tag: ["AI 生成圖片", "AI IMAGE"],
     title: ["餅乾細節 · 微距攝影", "Cookie Macro"],
     sub: ["烘焙", "Bakery"],
@@ -407,7 +407,7 @@ export const trackC: GalleryItem[] = [
     tools: MJ, tint: "#E0B64F",
   },
   {
-    kind: "image", id: "i27", img: "/images/imags/27.png", no: "A№16",
+    kind: "image", id: "i27", img: "/images2/imags/27.png", no: "A№16",
     tag: ["AI 生成圖片", "AI IMAGE"],
     title: ["復古風格 · 人物創作", "Retro Portrait"],
     sub: ["人物創作", "Character Art"],
@@ -415,7 +415,7 @@ export const trackC: GalleryItem[] = [
     tools: MJ, tint: "#B98BD6",
   },
   {
-    kind: "image", id: "i28", img: "/images/imags/28.png", no: "A№17",
+    kind: "image", id: "i28", img: "/images2/imags/28.png", no: "A№17",
     tag: ["AI 生成圖片", "AI IMAGE"],
     title: ["油畫風格 · 女性肖像", "Oil-Painting Portrait"],
     sub: ["人物創作", "Character Art"],
@@ -423,7 +423,7 @@ export const trackC: GalleryItem[] = [
     tools: MJ, tint: "#B98BD6",
   },
   {
-    kind: "image", id: "i29", img: "/images/imags/29.png", no: "A№18",
+    kind: "image", id: "i29", img: "/images2/imags/29.png", no: "A№18",
     tag: ["AI 生成圖片", "AI IMAGE"],
     title: ["油畫風格 · 女性肖像", "Oil-Painting Portrait"],
     sub: ["人物創作", "Character Art"],
@@ -431,7 +431,7 @@ export const trackC: GalleryItem[] = [
     tools: MJ, tint: "#B98BD6",
   },
   {
-    kind: "image", id: "i30", img: "/images/imags/30.png", no: "A№19",
+    kind: "image", id: "i30", img: "/images2/imags/30.png", no: "A№19",
     tag: ["AI 生成圖片", "AI IMAGE"],
     title: ["古代風格 · 藝術人像", "Classical Portrait"],
     sub: ["人物創作", "Character Art"],
@@ -439,7 +439,7 @@ export const trackC: GalleryItem[] = [
     tools: MJ, tint: "#B98BD6",
   },
   {
-    kind: "image", id: "i31", img: "/images/imags/31.png", no: "A№20",
+    kind: "image", id: "i31", img: "/images2/imags/31.png", no: "A№20",
     tag: ["AI 生成圖片", "AI IMAGE"],
     title: ["古代風格 · 藝術人像", "Classical Portrait"],
     sub: ["人物創作", "Character Art"],
@@ -447,7 +447,7 @@ export const trackC: GalleryItem[] = [
     tools: MJ, tint: "#B98BD6",
   },
   {
-    kind: "image", id: "i32", img: "/images/imags/32.png", no: "A№21",
+    kind: "image", id: "i32", img: "/images2/imags/32.png", no: "A№21",
     tag: ["AI 生成圖片", "AI IMAGE"],
     title: ["古代風格 · 藝術人像", "Classical Portrait"],
     sub: ["人物創作", "Character Art"],
@@ -455,7 +455,7 @@ export const trackC: GalleryItem[] = [
     tools: MJ, tint: "#B98BD6",
   },
   {
-    kind: "image", id: "i33", img: "/images/imags/33.png", no: "A№22",
+    kind: "image", id: "i33", img: "/images2/imags/33.png", no: "A№22",
     tag: ["AI 生成圖片", "AI IMAGE"],
     title: ["古代風格 · 藝術人像", "Classical Portrait"],
     sub: ["人物創作", "Character Art"],
@@ -466,7 +466,7 @@ export const trackC: GalleryItem[] = [
 
 /* Hero 拍立得用圖（沿用你 repo 既有檔名） */
 export const heroShots = [
-  "/images/imags/17.png",
-  "/images/shelly.JPG",
-  "/images/imags/23.png",
+  "/images2/imags/17.png",
+  "/images2/shelly.JPG",
+  "/images2/imags/23.png",
 ];
