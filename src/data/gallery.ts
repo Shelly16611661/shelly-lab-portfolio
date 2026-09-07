@@ -1294,7 +1294,7 @@ export const trackC: GalleryItem[] = [
 
 /* Hero 拍立得用圖（沿用你 repo 既有檔名） */
 export const heroShots = [
-  "/images2/imags/17.png",
-  "/images2/shelly.JPG",
-  "/images2/imags/23.png",
+  "/images2/imags/shelly1.JPG",
+  "/images2/imags/shelly2",
+  "/images2/imags/shelly3",
 ];
