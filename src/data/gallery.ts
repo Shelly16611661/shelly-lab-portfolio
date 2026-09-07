@@ -204,7 +204,7 @@ export const trackA: GalleryItem[] = [
     ],
     tools: ["菜單設計", "品牌視覺", "插畫排版"],
     tint: "#B79BDF",
-    link: "/照片/Café Theme Menu.pdf",
+    link: "public/照片/Café Theme Menu.pdf",
     linkLabel: ["查看 PDF", "Open PDF"],
   },
   {
@@ -218,7 +218,7 @@ export const trackA: GalleryItem[] = [
     ],
     tools: ["包裝設計", "視覺提案"],
     tint: "#8E7BD8",
-    link: "/照片/yinling_delicious_box.pdf",
+    link: "public/照片/yinling_delicious_box.pdf",
     linkLabel: ["查看 PDF", "Open PDF"],
   },
 ];
