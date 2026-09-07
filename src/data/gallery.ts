@@ -1003,7 +1003,7 @@ export const trackC: GalleryItem[] = [
   {
     kind: "image",
     id: "mm_replica_01",
-    img: "/images2/imags/mm_replica_fireplace1.PNGG",
+    img: "/images2/imags/mm_replica_fireplace1.PNG",
     no: "A№67",
     tag: ["AI 生成圖片", "AI IMAGE"],
     title: ["Maison Margiela 復古壁爐淡香水", "REPLICA By the Fireplace"],
