@@ -22,7 +22,7 @@ const zh = {
     sub: "吳宣萱的 AIGC 視覺實驗室",
     visitors: "實驗室訪客",
     hint: "點擊任意處進入",
-    est: "EST. 2005 ★ TAIPEI",
+    est: "INTJ. 2005 ★ TAIPEI",
   },
   hero: {
     eyebrow: "AIGC × LUXURY BEAUTY ★ 商業邏輯 × AI 視覺轉化",
@@ -37,8 +37,8 @@ const zh = {
     note: "為避免誤入詐騙陷阱，暫不接聽陌生電話 — 歡迎寫信給我，文字比聲音更長久。",
     cta1: "逛逛作品廊道",
     cta2: "觀看 AI 短片",
-    badge: "100% SPEC ADS ✦ AIGC ✦ EST. 2005 ✦ ",
-    polaroids: ["AI 渲染作品", "ME ✦ 本人", "AI 角色創作"],
+    badge: "100% PERFECTIONISM ✦ AIGC ✦ INTJ. 2005 ✦ ",
+    polaroids: ["ME ✦ 本人", "ME ✦ 本人", "ME ✦ 本人"],
     scroll: "往下滑",
     marquee: [
       "AIGC 視覺策略", "LUXURY BEAUTY", "專櫃美妝廣告", "SPEC AD ARCHIVE",
@@ -86,7 +86,7 @@ const zh = {
     resumed: "已恢復走秀",
     paused: "走秀暫停中",
     dragHint: "可拖曳滑動",
-    docNote: "＊如果把一臺設備連接到我的大腦任一神經元上，你會發現，人類思維中有一種不可預測的隨機性，這是AI永遠不具備的",
+    docNote: "＊如果把一臺設備連接到我的大腦任一神經元上，你會發現，人類思維中有一種不可預測的隨機性，這是AI永遠不具備的。",
   },
   insights: {
     kicker: "觀測日誌 · FIELD NOTES",
