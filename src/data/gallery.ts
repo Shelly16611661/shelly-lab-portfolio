@@ -984,7 +984,7 @@ export const trackC: GalleryItem[] = [
   {
     kind: "image",
     id: "olay_prcx_01",
-    img: "/images2/imags/olay_prcx_01.PNG",
+    img: "/images2/imags/olay_prcx.PNG",
     no: "A№66",
     tag: ["AI 生成圖片", "AI IMAGE"],
     title: ["OLAY PRO X 淡紋修護黑管精華", "OLAY PRO X Retinol Peptide"],
@@ -1003,7 +1003,7 @@ export const trackC: GalleryItem[] = [
   {
     kind: "image",
     id: "mm_replica_01",
-    img: "/images2/imags/mm_replica_01.PNG",
+    img: "/images2/imags/mm_replica1.PNG",
     no: "A№67",
     tag: ["AI 生成圖片", "AI IMAGE"],
     title: ["Maison Margiela 復古壁爐淡香水", "REPLICA By the Fireplace"],
@@ -1018,7 +1018,7 @@ export const trackC: GalleryItem[] = [
   {
     kind: "image",
     id: "mm_replica_02",
-    img: "/images2/imags/mm_replica_02.PNG",
+    img: "/images2/imags/mm_replica2.PNG",
     no: "A№68",
     tag: ["AI 生成圖片", "AI IMAGE"],
     title: ["Maison Margiela 復古壁爐淡香水", "REPLICA By the Fireplace"],
@@ -1033,7 +1033,7 @@ export const trackC: GalleryItem[] = [
   {
     kind: "image",
     id: "mm_replica_03",
-    img: "/images2/imags/mm_replica_03.PNG",
+    img: "/images2/imags/mm_replica3.PNG",
     no: "A№69",
     tag: ["AI 生成圖片", "AI IMAGE"],
     title: ["Maison Margiela 復古壁爐淡香水", "REPLICA By the Fireplace"],
@@ -1048,7 +1048,7 @@ export const trackC: GalleryItem[] = [
   {
     kind: "image",
     id: "mm_replica_04",
-    img: "/images2/imags/mm_replica_04.PNG",
+    img: "/images2/imags/mm_replica4.PNG",
     no: "A№70",
     tag: ["AI 生成圖片", "AI IMAGE"],
     title: ["Maison Margiela 復古壁爐淡香水", "REPLICA By the Fireplace"],
@@ -1063,7 +1063,7 @@ export const trackC: GalleryItem[] = [
   {
     kind: "image",
     id: "mm_replica_05",
-    img: "/images2/imags/mm_replica_05.PNG",
+    img: "/images2/imags/mm_replica5.PNG",
     no: "A№71",
     tag: ["AI 生成圖片", "AI IMAGE"],
     title: ["Maison Margiela 復古壁爐淡香水", "REPLICA By the Fireplace"],
@@ -1081,8 +1081,8 @@ export const trackC: GalleryItem[] = [
      ═══════════════════════════════════════════════════ */
   {
     kind: "image",
-    id: "ysl_libre_01",
-    img: "/images2/imags/ysl_libre_01.PNG",
+    id: "ysl_libre1.PNG",
+    img: "/images2/imags/ysl_libre1.PNG",
     no: "A№72",
     tag: ["AI 生成圖片", "AI IMAGE"],
     title: ["YSL自由不羈沁心之果香水", "YSL Libre Eau de Parfum"],
@@ -1096,8 +1096,8 @@ export const trackC: GalleryItem[] = [
   },
   {
     kind: "image",
-    id: "ysl_libre_02",
-    img: "/images2/imags/ysl_libre_02.PNG",
+    id: "ysl_libre2.PNG",
+    img: "/images2/imags/ysl_libre2.PNG",
     no: "A№73",
     tag: ["AI 生成圖片", "AI IMAGE"],
     title: ["YSL自由不羈沁心之果香水", "YSL Libre Eau de Parfum"],
@@ -1111,8 +1111,8 @@ export const trackC: GalleryItem[] = [
   },
   {
     kind: "image",
-    id: "ysl_libre_03",
-    img: "/images2/imags/ysl_libre_03.PNG",
+    id: "ysl_libre3.PNG",
+    img: "/images2/imags/ysl_libre3.PNG",
     no: "A№74",
     tag: ["AI 生成圖片", "AI IMAGE"],
     title: ["YSL自由不羈沁心之果香水", "YSL Libre Eau de Parfum"],
@@ -1126,8 +1126,8 @@ export const trackC: GalleryItem[] = [
   },
   {
     kind: "image",
-    id: "ysl_libre_04",
-    img: "/images2/imags/ysl_libre_04.PNG",
+    id: "ysl_libre4.PNG",
+    img: "/images2/imags/ysl_libre4.PNG",
     no: "A№75",
     tag: ["AI 生成圖片", "AI IMAGE"],
     title: ["YSL自由不羈沁心之果香水", "YSL Libre Eau de Parfum"],
@@ -1141,8 +1141,8 @@ export const trackC: GalleryItem[] = [
   },
   {
     kind: "image",
-    id: "ysl_libre_05",
-    img: "/images2/imags/ysl_libre_05.PNG",
+    id: "ysl_libre5.PNG",
+    img: "/images2/imags/ysl_libre5.PNG",
     no: "A№76",
     tag: ["AI 生成圖片", "AI IMAGE"],
     title: ["YSL自由不羈沁心之果香水", "YSL Libre Eau de Parfum"],
@@ -1160,8 +1160,8 @@ export const trackC: GalleryItem[] = [
      ═══════════════════════════════════════════════════ */
   {
     kind: "image",
-    id: "ysl_candy_01",
-    img: "/images2/imags/ysl_candy_01.PNG",
+    id: "ysl_candy_glaze1.PNG",
+    img: "/images2/imags/ysl_candy_glaze1.PNG",
     no: "A№77",
     tag: ["AI 生成圖片", "AI IMAGE"],
     title: ["YSL情迷水光蜜唇膏", "YSL Candy Glaze Lipstick"],
@@ -1175,8 +1175,8 @@ export const trackC: GalleryItem[] = [
   },
   {
     kind: "image",
-    id: "ysl_candy_02",
-    img: "/images2/imags/ysl_candy_02.PNG",
+    id: "ysl_candy_glaze2.PNG",
+    img: "/images2/imags/ysl_candy_glaze2.PNGG",
     no: "A№78",
     tag: ["AI 生成圖片", "AI IMAGE"],
     title: ["YSL情迷水光蜜唇膏", "YSL Candy Glaze Lipstick"],
@@ -1190,8 +1190,8 @@ export const trackC: GalleryItem[] = [
   },
   {
     kind: "image",
-    id: "ysl_candy_03",
-    img: "/images2/imags/ysl_candy_03.PNG",
+    id: "ysl_candy_glaze3.PNG",
+    img: "/images2/imags/ysl_candy_glaze3.PNG",
     no: "A№79",
     tag: ["AI 生成圖片", "AI IMAGE"],
     title: ["YSL情迷水光蜜唇膏", "YSL Candy Glaze Lipstick"],
@@ -1205,8 +1205,8 @@ export const trackC: GalleryItem[] = [
   },
   {
     kind: "image",
-    id: "ysl_candy_04",
-    img: "/images2/imags/ysl_candy_04.PNG",
+    id: "ysl_candy_glaze4.PNG",
+    img: "/images2/imags/ysl_candy_glaze4.PNG",
     no: "A№80",
     tag: ["AI 生成圖片", "AI IMAGE"],
     title: ["YSL情迷水光蜜唇膏", "YSL Candy Glaze Lipstick"],
@@ -1220,8 +1220,8 @@ export const trackC: GalleryItem[] = [
   },
   {
     kind: "image",
-    id: "ysl_candy_05",
-    img: "/images2/imags/ysl_candy_05.PNG",
+    id: "ysl_candy_glaze5.PNG",
+    img: "/images2/imags/ysl_candy_glaze5.PNG",
     no: "A№81",
     tag: ["AI 生成圖片", "AI IMAGE"],
     title: ["YSL情迷水光蜜唇膏", "YSL Candy Glaze Lipstick"],
@@ -1235,8 +1235,8 @@ export const trackC: GalleryItem[] = [
   },
   {
     kind: "image",
-    id: "ysl_candy_06",
-    img: "/images2/imags/ysl_candy_06.PNG",
+    id: "ysl_candy_glaze6.PNG",
+    img: "/images2/imags/ysl_candy_glaze6.PNG",
     no: "A№82",
     tag: ["AI 生成圖片", "AI IMAGE"],
     title: ["YSL情迷水光蜜唇膏", "YSL Candy Glaze Lipstick"],
@@ -1250,8 +1250,8 @@ export const trackC: GalleryItem[] = [
   },
   {
     kind: "image",
-    id: "ysl_candy_07",
-    img: "/images2/imags/ysl_candy_07.PNG",
+    id: "ysl_candy_glaze7.PNG",
+    img: "/images2/imags/ysl_candy_glaze7.PNG",
     no: "A№83",
     tag: ["AI 生成圖片", "AI IMAGE"],
     title: ["YSL情迷水光蜜唇膏", "YSL Candy Glaze Lipstick"],
@@ -1265,8 +1265,8 @@ export const trackC: GalleryItem[] = [
   },
   {
     kind: "image",
-    id: "ysl_candy_08",
-    img: "/images2/imags/ysl_candy_08.PNG",
+    id: "ysl_candy_glaze8.PNG",
+    img: "/images2/imags/ysl_candy_glaze8.PNG",
     no: "A№84",
     tag: ["AI 生成圖片", "AI IMAGE"],
     title: ["YSL情迷水光蜜唇膏", "YSL Candy Glaze Lipstick"],
@@ -1280,8 +1280,8 @@ export const trackC: GalleryItem[] = [
   },
   {
     kind: "image",
-    id: "ysl_candy_09",
-    img: "/images2/imags/ysl_candy_09.PNG",
+    id: "ysl_candy_glaze9.PNG",
+    img: "/images2/imags/ysl_candy_glaze9.PNG",
     no: "A№85",
     tag: ["AI 生成圖片", "AI IMAGE"],
     title: ["YSL情迷水光蜜唇膏", "YSL Candy Glaze Lipstick"],
@@ -1295,8 +1295,8 @@ export const trackC: GalleryItem[] = [
   },
   {
     kind: "image",
-    id: "ysl_candy_10",
-    img: "/images2/imags/ysl_candy_10.PNG",
+    id: "ysl_candy_glaze10.PNG",
+    img: "/images2/imags/ysl_candy_glaze10.PNG",
     no: "A№86",
     tag: ["AI 生成圖片", "AI IMAGE"],
     title: ["YSL情迷水光蜜唇膏", "YSL Candy Glaze Lipstick"],
@@ -1313,6 +1313,6 @@ export const trackC: GalleryItem[] = [
 /* Hero 拍立得用圖（沿用你 repo 既有檔名） */
 export const heroShots = [
   "/images2/imags/shelly1.JPG",
-  "/images2/imags/shelly1.JPG",
+  "/images2/imags/shelly2JPG",
   "/images2/imags/shelly3.JPG",
 ];
